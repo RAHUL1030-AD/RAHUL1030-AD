@@ -1,6 +1,5 @@
 # Welcome to Rahul's Den
-
-This is Rahul Adhikari from Bangladesh, studying Vehicle Engineering in BIT.
+This is Rahul Adhikari from Bangladesh. I am studying vehicle engineering at BIT.
 
 ## Showcasing my work
 
